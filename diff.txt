@@ -1,0 +1,10 @@
+--- clean_code.c	2025-04-23 07:33:10.708347263 +0200
++++ test.c	2025-04-23 07:28:10.272850869 +0200
+@@ -1,6 +1,6 @@
+ #include <stdio.h>
+ 
+ int main() {
+-    printf("Hello world and get to fu*k !\n");
++    printf("Hello world !\n");
+     return 0;
+ }
